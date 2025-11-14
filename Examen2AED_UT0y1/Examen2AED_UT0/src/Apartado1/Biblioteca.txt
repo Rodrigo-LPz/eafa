@@ -1,0 +1,11 @@
+Título, Autor, Año, Páginas
+Cien años de soledad, Gabriel García Márquez, 1967, 417
+Don Quijote de la Mancha, Miguel de Cervantes, 1605, 863
+1984, George Orwell, 1949, 328
+El amor en los tiempos del cólera, Gabriel García Márquez, 1985, 348
+La sombra del viento, Carlos Ruiz Zafón, 2001, 576
+Rayuela, Julio Cortázar, 1963, 635
+Crimen y castigo, Fiódor Dostoyevski, 1866, 671
+El principito, Antoine de Saint-Exupéry, 1943, 96
+La casa de los espíritus, Isabel Allende, 1982, 433
+El túnel, Ernesto Sabato, 1948, 142
